@@ -14,10 +14,10 @@
 
 ### FrontEnd Development:
 
-<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 
 </br>
 
@@ -26,8 +26,8 @@
 
 ### Backend Development:
 
-<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left"  width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 
 </br>
 
@@ -36,7 +36,6 @@
 ### Database:
 
 <img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 
 </br>
 
