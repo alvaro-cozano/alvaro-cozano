@@ -53,7 +53,7 @@
 
 ### 🔎 Mis estadisticas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-cozano&show_icons=true&theme=tokyonight)
 
 </br>
 
