@@ -43,7 +43,6 @@
 ### Otros:
 
 <img align="left"  width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left"  width="40" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 
 </br>
 
