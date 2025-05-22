@@ -12,6 +12,15 @@
 
 ---
 
+### Backend Development:
+
+<img align="left"  width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+
+</br>
+
+---
+
 ### FrontEnd Development:
 
 <img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
@@ -23,15 +32,6 @@
 
 ---
 
-
-### Backend Development:
-
-<img align="left"  width="40" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img align="left"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-
-</br>
-
----
 
 ### Database:
 
